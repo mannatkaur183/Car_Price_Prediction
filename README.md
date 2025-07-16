@@ -53,8 +53,8 @@ The model is trained on the following features:
 
 | Metric                  | Value               |
 |-------------------------|---------------------|
-| **Accuracy**            | ✅ **93.01%**        |
-| **Mean Absolute Error** | ✅ **0.7459 lakhs**  |
+| **Accuracy**            | ✅ **96.22%**        |
+| **Mean Absolute Error** | ✅ **0.4115 lakhs**  |
 
 ✔️ The model shows **excellent generalization** with low prediction error.
 
