@@ -7,7 +7,7 @@ This machine learning project focuses on predicting the **resale price of cars**
 ## Objective
 
 - Predict the **selling price of used cars** based on factors like present price, kilometers driven, fuel type, etc.
-- Use **Gradient Boosting Regressor** to achieve high prediction accuracy.
+- Use **XGBoost Regressor** to achieve high prediction accuracy.
 
 ---
 
@@ -18,7 +18,7 @@ This machine learning project focuses on predicting the **resale price of cars**
 - **NumPy** – for numerical operations
 - **Matplotlib & Seaborn** – for data visualization
 - **Scikit-learn** – for model training and evaluation
-  - `GradientBoostingRegressor`
+  - `XGBoost Regressor`
   - `train_test_split`
   - `mean_absolute_error`, `r2_score`
 
@@ -46,7 +46,7 @@ The model is trained on the following features:
 - Engineered feature `Number_of_Years_Old` from the year
 
 ### 2. Model Training
-- Model: `GradientBoostingRegressor`
+- Model: `XGBoost Regressor`
 - Data split: **80% training**, **20% testing**
 
 ### 3. Model Evaluation
